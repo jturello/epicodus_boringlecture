@@ -1,0 +1,18 @@
+h2.intro {
+  font-family: sans-serif;
+  font-size: 1.5em;
+  text-align: center;
+  font-weight: 600;
+  color: red;
+}
+
+p.intro {
+  font-family: sans-serif;
+  font-weight: 100;
+  color: blue;
+  text-align: center;
+}
+
+img.intro {
+  height: 100px;
+}
